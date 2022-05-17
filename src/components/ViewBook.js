@@ -248,8 +248,7 @@ const ViewBook = () => {
                      <p className="card-text">Username:  {value.username}</p>
                      <p className="card-text">Email:  {value.email}</p>
                      <p className="card-text">PhNo:  {value.phone}</p> 
-                     <p className="card-text">Website:  {value.website}</p>                 
-                     <a href="#" className="btn btn-primary">Buy Now</a>
+                     <p className="card-text">Website:  {value.website}</p>                
                    </div>
                  </div>
                  </div>
