@@ -16,6 +16,9 @@ const Navbar = () => {
         <li className="nav-item">
             <Link className="nav-link active" to="/">USER VIEW</Link>
         </li>
+        <li className="nav-item">
+            <Link className="nav-link active" to="/view">VIEW USER</Link>
+        </li>
       </ul>
     </div>
   </div>
